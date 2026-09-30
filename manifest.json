@@ -1,0 +1,10 @@
+{
+  "type": "preload-native",
+  "name": "PandaMine VVU Unlocker",
+  "author": "PandaMine5 / Levi adaptation",
+  "version": "1.0.0-26.52.3",
+  "entry": "libpanda_vvu_levi.so",
+  "minecraft_versions": ["26.52.3"],
+  "overwrite_files": [],
+  "overwrite_folders": []
+}
