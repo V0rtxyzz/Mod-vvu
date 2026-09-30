@@ -1,0 +1,5 @@
+PandaMine VVU Levi Builder v4
+Base: mcbegamerxx954/mtbinloader2 snapshot supplied by user
+Target: 1.26.52.3 / aarch64-linux-android
+Strategy: embedded FAFAFILES asset replacement, no ResourcePackManager signature scan
+tiers.bin SHA-256: d1da9099ac38699968d867056136973f34e8ccd518901d11100a263e57f1208e
