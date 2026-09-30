@@ -1,0 +1,6 @@
+Base native loader: QYCottage/mtbinloader2-levi
+Base tag: v0.1.10-beta
+Target ABI: aarch64-linux-android (Android ARM64)
+Minecraft target: 26.52.3
+Embedded file: tiers.bin (PandaMine pack labeled 26.50)
+Patch behavior: intercept AAssetManager_open for any path whose basename is tiers.bin
